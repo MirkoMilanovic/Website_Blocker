@@ -1,3 +1,7 @@
+'''
+This app blocks specific websites in some specific time span during the day.
+'''
+
 from datetime import datetime as dt
 import time
 
